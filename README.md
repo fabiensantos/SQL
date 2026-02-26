@@ -1,6 +1,6 @@
 ## Ficheiros
 
-[Enunciado](https://github.com/fabiensantos/PostgreSQL/blob/Editora/Enunciado%20Editora)
+[Enunciado](https://github.com/fabiensantos/PostgreSQL/blob/Editora/Enunciado%20Editora.txt))
 
 
 [Resolução](https://github.com/fabiensantos/PostgreSQL/blob/Editora/Codigo_Resolucao_Editora.sql)
