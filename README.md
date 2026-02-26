@@ -6,4 +6,4 @@ Este repositório destina-se a resolução de exercicios em PostgreSQL para evol
 
 ## Conteúdos
 ### Exercicios Básicos
-- Editora
+- [Editora](https://github.com/fabiensantos/SQL/tree/Editora)
