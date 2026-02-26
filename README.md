@@ -1,12 +1,16 @@
-# SQL
-Repositório de exercícios de SQL com enunciados e respetivas soluções, desenvolvido para evidenciar evolução técnica, capacidade de análise de requisitos e rigor na interpretação de problemas relacionados com bases de dados.
+## Ficheiros
 
-## Objetivo
-Este repositório destina-se a resolução de exercicios em PostgreSQL para evoluir na escrita de queries, análise de dados e interpretação de requisitos de bases de dados.
+[Enunciado](https://github.com/fabiensantos/SQL/blob/Editora/Enunciado%20Editora)
 
-## Conteúdos
-### Exercicios Básicos
-#### Editora
+
+[Resolução](https://github.com/fabiensantos/SQL/blob/Editora/Codigo_Resolucao_Editora.sql)
+
+[Inserts]()
+
+[Selects]()
+
+
+### Editora
   <details>
   <summary>Comandos utilizados</summary>
     <ul>
@@ -26,6 +30,7 @@ Este repositório destina-se a resolução de exercicios em PostgreSQL para evol
     <li><b>ON UPDATE CASCADE</b></li>
     <li><b>CHECK</b></li>
     <li><b>DEFAULT</b></li>
+    <li><b>INSERT INTO</b></li>
   </ul>
   </details>
   <details>
