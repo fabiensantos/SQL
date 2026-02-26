@@ -1,11 +1,11 @@
 ## Ficheiros
 
-[Enunciado](https://github.com/fabiensantos/SQL/blob/Editora/Enunciado%20Editora)
+[Enunciado](https://github.com/fabiensantos/PostgreSQL/blob/Editora/Enunciado%20Editora)
 
 
-[Resolução](https://github.com/fabiensantos/SQL/blob/Editora/Codigo_Resolucao_Editora.sql)
+[Resolução](https://github.com/fabiensantos/PostgreSQL/blob/Editora/Codigo_Resolucao_Editora.sql)
 
-[Inserts](https://github.com/fabiensantos/SQL/blob/Editora/Inserts.sql)
+[Inserts](https://github.com/fabiensantos/PostgreSQL/blob/Editora/Inserts.sql)
 
 [Selects]()
 
