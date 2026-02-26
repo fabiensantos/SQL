@@ -10,7 +10,10 @@
 [Selects](https://github.com/fabiensantos/PostgreSQL/blob/Editora)
 
 
-### Editora
+## Modelação
+<img width="960" height="578" alt="image" src="https://github.com/user-attachments/assets/cef0eb9f-9887-47f2-9097-6a43d214c5cd" />
+
+## Conteudos
   <details>
   <summary>Comandos utilizados</summary>
     <ul>
