@@ -7,7 +7,7 @@
 
 [Inserts](https://github.com/fabiensantos/PostgreSQL/blob/Editora/Inserts.sql)
 
-[Selects]()
+[Selects](https://github.com/fabiensantos/PostgreSQL/blob/Editora)
 
 
 ### Editora
