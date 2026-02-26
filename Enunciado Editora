@@ -1,0 +1,13 @@
+Pretendo criar um sistema para organizar a informação de uma pequena editora ou loja de livros online.
+
+A ideia é conseguir guardar os livros que existem, saber a que género pertencem (por exemplo, Romance, Fantasia, História, entre outros) e manter tudo bem organizado. Cada livro deverá estar associado a um único género, mas cada género pode ter vários livros.
+
+Também quero guardar informação sobre os autores. Um autor pode escrever vários livros e um livro pode ter mais do que um autor, por isso é importante que o sistema permita fazer essas ligações de forma simples.
+
+Além disso, o sistema deverá permitir o registo de leitores, com nome e email (não devem existir dois leitores com o mesmo email). Opcionalmente, poderá também ser guardada a data de nascimento e o género.
+
+Pretendo ainda que os leitores possam deixar opiniões sobre os livros. Cada opinião deve ter uma classificação de 1 a 5 e um comentário. Um livro pode ter várias opiniões e um leitor pode escrever várias opiniões, mas cada opinião refere-se apenas a um livro de cada vez.
+
+Se um livro for removido do sistema, as opiniões sobre esse livro devem desaparecer automaticamente. No entanto, se um leitor for removido, as opiniões que deixou não devem ser apagadas; devem apenas passar a ficar associadas a um utilizador “Anónimo”.
+
+O principal objetivo é que toda a informação fique organizada, sem dados repetidos ou incoerentes, e que o sistema impeça automaticamente situações inválidas.
