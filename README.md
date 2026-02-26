@@ -1,4 +1,4 @@
-## Ficheiros
+## <span style='font-size:200px;'>&#128193;</span> Ficheiros
 
 [Enunciado](https://github.com/fabiensantos/PostgreSQL/blob/Editora/Enunciado%20Editora.txt)
 
@@ -10,10 +10,10 @@
 [Selects](https://github.com/fabiensantos/PostgreSQL/blob/Editora)
 
 
-## Modelação
+## <span style='font-size:200px;'>&#119068;</span> Modelação
 <img width="960" height="578" alt="image" src="https://github.com/user-attachments/assets/cef0eb9f-9887-47f2-9097-6a43d214c5cd" />
 
-## Conteudos
+## <span style='font-size:200px;'>&#129504;</span> Conteudos
   <details>
   <summary>Comandos utilizados</summary>
     <ul>
