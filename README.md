@@ -1,4 +1,4 @@
-# SQL
+# PostgreSQL
 Repositório de exercícios de SQL com enunciados e respetivas soluções, desenvolvido para evidenciar evolução técnica, capacidade de análise de requisitos e rigor na interpretação de problemas relacionados com bases de dados.
 
 ## Objetivo
@@ -6,4 +6,4 @@ Este repositório destina-se a resolução de exercicios em PostgreSQL para evol
 
 ## Conteúdos
 ### Exercicios Básicos
-- [Editora](https://github.com/fabiensantos/SQL/tree/Editora)
+- [Editora](https://github.com/fabiensantos/PostgreSQL/tree/Editora)
