@@ -5,7 +5,7 @@
 
 [Resolução](https://github.com/fabiensantos/SQL/blob/Editora/Codigo_Resolucao_Editora.sql)
 
-[Inserts]()
+[Inserts](https://github.com/fabiensantos/SQL/blob/Editora/Inserts.sql)
 
 [Selects]()
 
