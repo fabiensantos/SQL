@@ -1,5 +1,9 @@
 # Português <span style='font-size:200px;'>&#127477;&#127481;</span> 
 
+## Objetivo
+
+Este projeto teve como principal objetivo consolidar conhecimentos fundamentais de modelação e implementação de bases de dados relacionais. Ao longo do desenvolvimento foram trabalhados conceitos como criação de tabelas, definição de ***chaves primárias*** e ***estrangeiras***, ***normalização de dados***, ***integridade referencial*** e ***aplicação de regras de negócio*** diretamente ao nível da base de dados. Foram ainda exploradas relações do tipo ***um-para-muitos*** e ***muitos-para-muitos***, bem como a utilização de constraints como ***UNIQUE***, ***CHECK***, ***ON DELETE*** e ***ON UPDATE***. Este projeto permitiu desenvolver competências na estruturação lógica de informação, prevenção de inconsistências e construção de modelos de dados robustos e coerentes, aproximando-se de cenários reais de desenvolvimento.
+
 ## <span style='font-size:200px;'>&#128193;</span> Ficheiros
 
 [Enunciado](https://github.com/fabiensantos/PostgreSQL/blob/Editora/Enunciado%20Editora.txt)
@@ -65,8 +69,15 @@
 
 
 
+<hr>
 
 # English <span style='font-size:200px;'>&#127468;&#127463;</span>
+
+## Objective
+
+The main objective of this project was to consolidate fundamental knowledge in the modelling and implementation of relational databases. Throughout the development process, key concepts were explored, such as table creation, definition of ***primary keys*** and ***foreign keys***, ***data normalisation***, ***referential integrity***, and the ***application of business rules*** directly at database level. Relationships of the ***one-to-many*** and ***many-to-many*** types were also implemented, along with the use of constraints such as ***UNIQUE***, ***CHECK***, ***ON DELETE***, and ***ON UPDATE***.
+
+This project enabled the development of skills in logical data structuring, prevention of inconsistencies, and the construction of robust and coherent data models, closely reflecting real-world development scenarios.
 
 ## <span style='font-size:200px;'>📁</span> Files
 
