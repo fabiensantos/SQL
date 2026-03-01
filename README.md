@@ -1,4 +1,4 @@
-# Português <span style='font-size:200px;'>&#127477;&#127481;</span> 
+# <span style='font-size:200px;'>&#127477;&#127481;</span> 
 
 ## Objetivo
 
@@ -71,7 +71,7 @@ Este projeto teve como principal objetivo consolidar conhecimentos fundamentais 
 
 <hr>
 
-# English <span style='font-size:200px;'>&#127468;&#127463;</span>
+# <span style='font-size:200px;'>&#127468;&#127463;</span>
 
 ## Objective
 
