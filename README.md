@@ -1,4 +1,4 @@
-# <span style='font-size:200px;'>&#127477;&#127481;</span> 
+# <span style='font-size:200px;'>&#80;</span><span style='font-size:200px;'>&#84;</span> 
 
 ## Objetivo
 
@@ -65,13 +65,13 @@ Este projeto teve como principal objetivo consolidar conhecimentos fundamentais 
     </ul>
   </details>
   
-<span style='font-size:200px;'>&#127968;</span>[Main](https://github.com/fabiensantos/PostgreSQL/tree/main)
+<span style='font-size:100px;'>&#127968;</span>[Main](https://github.com/fabiensantos/PostgreSQL/tree/main)
 
 
 
 <hr>
 
-# <span style='font-size:200px;'>&#127468;&#127463;</span>
+# <span style='font-size:200px;'>&#69;</span><span style='font-size:200px;'>&#78;</span><span style='font-size:200px;'>&#71;</span>
 
 ## Objective
 
